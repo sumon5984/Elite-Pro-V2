@@ -32,7 +32,7 @@
 
 ## FOR PANEL DEPLOYMENT
 
-- Click on **[DOWNLOAD](https://elite-pro-v2-verification.vercel.app/)** to get zip file🗃.
+- Click on **[DOWNLOAD](https://eliteproverified.vercel.app/)** to get zip file🗃.
 - Deploy bot on **[BOT-HOSTING.NET](https://bot-hosting.net/)**
 - Create a server
 - Upload zip file there 🗃️ 
@@ -87,8 +87,8 @@ Paste this after the installation
   <a aria-label="WEBSITE" href="https://elitepro-website.vercel.app/" target="_blank">
     <img alt="ELITEPRO-WEB" src="https://img.shields.io/badge/ELITEPRO WEB-25D366?style=for-the-badge&logo=online&logoColor=white" />
 </a>
-<a aria-label="NEW REPO" href="https://github.com/elite-md/ELITEPRO" target="_blank">
-    <img alt="OTHER REPO" src="https://img.shields.io/badge/NEW REPO-0E1241?style=for-the-badge&logo=github&logoColor=white" />
+<a aria-label="OTHER REPO" href="https://github.com/elite-md/ELITE-PRO-V1" target="_blank">
+    <img alt="OTHER REPO" src="https://img.shields.io/badge/OTHER REPO-0E1241?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
